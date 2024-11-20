@@ -1,10 +1,14 @@
 ## Sobre
 
-Meu nome é Murilo Gomes, sou desenvolvedor Full Stack há 20 anos.
+Sou desenvolvedor de softwares para Linux/Windows e sistemas web, tenho conhecimento em diversas tecnologias como:
 
 - Softwares: VSCode, NetBeans, Gambas, Visual Studio, Git, GitHub, Apache, phpmyadmin e Node
 - Front-end: HTML5, XHTML, CSS, JavaScript, jQuery, JSON, XML, Bootstrap e Electron
 - Back-end: PHP, ASP, Python, ShellScript, Gambas3, VB.NET, CodeIgniter e WordPress
+
+## Mestre da Info
+- Site: https://www.mestredainfo.com.br
+- Serviços de Criação e Manutenção de Sites
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Mu-PHP" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
