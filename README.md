@@ -1,6 +1,6 @@
 # 👨‍💻 Mestre da Info – Desenvolvedor de Software Livre
 
-Sou um desenvolvedor apaixonado por **software livre**, especializado em **sistemas web**, **automação** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias livres para criar soluções práticas, acessíveis e sustentáveis para a comunidade.
+Sou um desenvolvedor de **software**, especializado em **sistemas web** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias para criar soluções práticas, acessíveis e sustentáveis para os usuários.
 
 ---
 
@@ -30,12 +30,9 @@ Sou um desenvolvedor apaixonado por **software livre**, especializado em **siste
 
 ## 🚀 Sobre meus projetos
 
-- 👨‍💻 Desenvolvo ferramentas livres para web e desktop
+- 👨‍💻 Desenvolvo ferramentas para web e desktop
 - 🔧 Meus projetos são pensados para resolver problemas reais com simplicidade
-- 🌱 Todos os projetos têm foco em **aprendizado**, **documentação acessível** e **liberdade de uso**
 - 📤 Alguns projetos surgem das minhas **lives na Twitch** ou são apoiados por quem acompanha meu conteúdo
-
-Acesse os repositórios para ver **sistemas completos**, **plugins**, **scripts utilitários** e mais!
 
 ---
 
@@ -50,7 +47,7 @@ Acesse os repositórios para ver **sistemas completos**, **plugins**, **scripts 
 
 ## ✊ Filosofia
 
-> "A liberdade de criar e compartilhar é o que move a tecnologia. Eu ensino, desenvolvo e vivo o software livre."  
+> "A liberdade de criar e compartilhar é o que move a tecnologia!"  
 > — Mestre da Info
 
 ---
