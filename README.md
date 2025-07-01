@@ -1,4 +1,4 @@
-# 👨‍💻 Mestre da Info – Desenvolvedor de Software Livre
+# 👨‍💻 Mestre da Info – Desenvolvedor de Software e Sistemas Web
 
 Sou um desenvolvedor de **software**, especializado em **sistemas web** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias para criar soluções práticas, acessíveis e sustentáveis para os usuários.
 
