@@ -1,14 +1,14 @@
 # 👨‍💻 Mestre da Info – Desenvolvedor de Software e Sistemas Web
 
-Sou um desenvolvedor de **software**, especializado em **sistemas web** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias para criar soluções práticas, acessíveis e sustentáveis para os usuários.
+Sou um desenvolvedor de **software livre**, especializado em **sistemas web** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias para criar soluções práticas, acessíveis e sustentáveis para os usuários.
 
 ---
 
 ## 🛠️ Tecnologias e Linguagens que domino
 
-- 🔤 **Linguagens**: PHP, Python, JavaScript, HTML5, CSS3, jQuery
-- 📦 **Frameworks e Bibliotecas**: Bootstrap, Electron, Gambas3
-- 🗃️ **Bancos de dados**: MySQL / MariaDB, SQLite3
+- 🔤 **Linguagens**: PHP, Python, Gambas3, JavaScript, HTML5, CSS3, jQuery
+- 📦 **Frameworks e Bibliotecas**: Bootstrap, Electron
+- 🗃️ **Bancos de dados**: MySQL/MariaDB, SQLite3
 - 🌐 **CMS**: WordPress (com e sem WooCommerce)
 - 🐧 **Ambientes**: Linux (desktop e servidores)
 
