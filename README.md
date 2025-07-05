@@ -1,6 +1,6 @@
 # 👨‍💻 Mestre da Info – Desenvolvedor de Software e Sistemas Web
 
-Sou um desenvolvedor de **software livre**, especializado em **sistemas web** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias para criar soluções práticas, acessíveis e sustentáveis para os usuários.
+Sou um desenvolvedor de **software**, especializado em **sistemas web** e **desenvolvimento multiplataforma**. Trabalho com uma variedade de tecnologias para criar soluções práticas, acessíveis e sustentáveis para os usuários.
 
 ---
 
@@ -32,7 +32,6 @@ Sou um desenvolvedor de **software livre**, especializado em **sistemas web** e 
 
 - 👨‍💻 Desenvolvo ferramentas para web e desktop
 - 🔧 Meus projetos são pensados para resolver problemas reais com simplicidade
-- 📤 Alguns projetos surgem das minhas **lives na Twitch** ou são apoiados por quem acompanha meu conteúdo
 
 ---
 
